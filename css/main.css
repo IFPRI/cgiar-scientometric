@@ -200,3 +200,10 @@
       }
       aside {padding: 20px;}
       h1, h3 {font-size: 14px; font-weight: normal; padding-left: 40px;}
+      h2 {
+        text-align:justify;
+        font-family: 'PT Sans Narrow', sans-serif;
+        line-height: 28px;
+        font-size: 24px;
+        font-weight: bold;
+      }
