@@ -8,7 +8,7 @@
 _ifpritxt = {};
 
 // HOME TEXT
-_ifpritxt.home = "<p><b>Scientometrics?<b><br>Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts.</p>";
+_ifpritxt.home = "<p>Scientometrics is the study of measuring and analysing science, technology and innovation. Major research issues include the measurement of impact, reference sets of articles to investigate the impact of journals and institutes, understanding of scientific citations, mapping scientific fields and the production of indicators for use in policy and management contexts.</p>";
 
 // YEARLY COLLABORATION TEXT
 _ifpritxt.collaborationsyear = "The <i>Chord</i> visualization below shows organization co-authorship between academic publications in the CGIAR system.  Hover over a organization name to highlight the links to other countries.  Hover over a link to view the number of co-author publications.  Move the slider on the right to change the year of publication.";
