@@ -24,7 +24,6 @@ _ifpritxt.streamgraph = "The Streamgraph visualization below shows the top 30 ke
 
 // ABOUT TEXT HERE
 _ifpritxt.about = "<p>About text here.<br><br><br> This Scientometric Trends Portal was developed by <a href='http://grantmckenzie.com' target='_blank'>Grant McKenzie</a> and the <a href='http://ptal.io' target='_blank'>Place Time Analysis Lab</a>.</p>";
-";
 
 // YEARLY COLLABORATION TEXT
 _ifpritxt.collaborationsyear = "The <i>Chord</i> visualization below shows organization co-authorship between academic publications in the CGIAR system.  Hover over a organization name to highlight the links to other countries.  Hover over a link to view the number of co-author publications.  Move the slider on the right to change the year of publication.";
