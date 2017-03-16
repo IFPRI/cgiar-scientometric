@@ -13,7 +13,7 @@
         white-space: nowrap;
         pointer-events: none;
       }
-      p {
+      p, li {
         text-align:justify;
         font-family: 'PT Sans Narrow', sans-serif;
         line-height: 28px;
@@ -99,7 +99,7 @@
         float:right;
         right:0px;
         position:absolute;
-        top:320px;
+        top:400px;
         height:400px;
       }
       #diagram {
@@ -131,7 +131,7 @@
       }
       #sliderttext2 {
         font-size:40px;
-        margin-top:280px;
+        margin-top:350px;
         min-height: 50px;
         position:absolute;
         float:right;
@@ -200,12 +200,20 @@
         color: #bf411e;
       }
       aside {padding: 20px;}
-      h1, h3 {font-size: 14px; font-weight: normal; padding-left: 40px;}
-      h2 {
-        text-align:justify;
+      h1 {
+        text-align:center;
         margin: auto;
         font-family: 'PT Sans Narrow', sans-serif;
-        line-height: 28px;
+        line-height: 40px;
+        font-size: 36px;
+        font-weight: bold;
+      }
+	  h3 {font-size: 14px; font-weight: normal; padding-left: 40px;}
+      h2 {
+        text-align:center;
+        margin: auto;
+        font-family: 'PT Sans Narrow', sans-serif;
+        line-height: 12px;
         font-size: 24px;
         font-weight: bold;
       }
