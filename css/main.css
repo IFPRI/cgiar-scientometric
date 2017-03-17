@@ -14,7 +14,7 @@
         pointer-events: none;
       }
       p, li {
-        text-align:justify;
+        text-align:left;
         font-family: 'PT Sans Narrow', sans-serif;
         line-height: 28px;
         font-size: 18px;
